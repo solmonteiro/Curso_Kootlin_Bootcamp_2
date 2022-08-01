@@ -1,11 +1,11 @@
 package com.example.curso_kootlin_bootcamp_2
 
 fun main(){
-
+/*
     canAddFish(10.0f, listOf(3,3,3)) //---> false
     canAddFish(8.0f, listOf(2,2,2), hasDecorations = false)// ---> true
     canAddFish(9.0f, listOf(1,1,3), 3) //---> false
-    canAddFish(10.0f, listOf(), 7, true) //---> true
+    canAddFish(10.0f, listOf(), 7, true) //---> true   */
 }
 
 /*Create a function that takes these arguments:
